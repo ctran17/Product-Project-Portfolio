@@ -11,7 +11,7 @@
 ## Mockups
 
 **Before (Current Rewards):**  
-![Before Rewards](./current-rewards.png)
+![Before Rewards](./current_rewards.png)
 
 **After (Proposed Rewards + Milestones):**  
 ![After Rewards](./proposed-rewards.png)
