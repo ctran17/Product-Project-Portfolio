@@ -8,6 +8,14 @@
 - Weekly Milestones: 3/6/9 Trials → +20💎 / +200❤️ / +50💎  
 *Note: respects per-character daily cap + weekday orbit limits.*
 
+## Mockups
+
+**Before (Current Rewards):**  
+![Before Rewards](./current-rewards.png)
+
+**After (Proposed Rewards + Milestones):**  
+![After Rewards](./proposed-rewards.png)
+
 **Success Metrics**
 - +10% Day-30 retention (F2P)
 - +20% faster average Trial completion
