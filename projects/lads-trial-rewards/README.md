@@ -11,8 +11,7 @@
 ## Mockups
 
 **Before (Current Rewards):**  
-![Before Rewards](<img width="390" height="844" alt="current rewards" src="https://github.com/user-attachments/assets/7e851663-39ea-4ca9-a4c1-1b1e01efe498" />
-)
+![Before Rewards](projects/lads-trial-rewards/current rewards.png) 
 
 **After (Proposed Rewards + Milestones):**  
 ![After Rewards](<img width="390" height="844" alt="proposed rewards" src="https://github.com/user-attachments/assets/792ac63c-5cb3-426f-8921-79fc4a07a4e7" />
