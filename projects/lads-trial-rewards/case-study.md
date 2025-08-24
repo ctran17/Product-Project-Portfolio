@@ -1,5 +1,10 @@
 # Product Case Study: Improving Rewards & Player Retention in *Love and Deepspace*
 
+## Introduction
+*Love and Deepspace (LaDS)* is a mobile otome (romance) game by Infold Games that combines interactive storylines with gacha mechanics and real-time combat. Players develop romantic relationships with the game characters while progressing through battles and unlocking narrative chapters. The game’s marketing emphasizes its immersive story and character-driven experience, but community feedback has highlighted a gap between the narrative focus and the grind-heavy, resource-scarce gameplay systems.
+
+---
+
 ## Problem Statement
 F2P and casual players feel punished by scarce rewards and high resource requirements in progression systems like Trials/Directional Orbits. Current mechanics create anxiety and discourage long-term play, especially for users who joined primarily for story immersion rather than grind.
 
