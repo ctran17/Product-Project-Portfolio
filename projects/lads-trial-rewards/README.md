@@ -14,7 +14,7 @@
 ![Before Rewards](./current-rewards.png)
 
 **After (Proposed Rewards + Milestones):**  
-![After Rewards](/After - Proposed Rewards + Milestones.png)
+![After Rewards](./proposed-rewards.png)
 
 **Success Metrics**
 - +10% Day-30 retention (F2P)
