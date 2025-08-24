@@ -1,23 +1,25 @@
 # Love and Deepspace — Trial Rewards Redesign
 
-**Problem.** F2P/casual players feel punished by scarce rewards and high Trial difficulty; mismatch with story-first marketing drives frustration and churn.
+## Overview
+This case study explores how adjusting *Love and Deepspace’s* Trial rewards system could reduce churn and improve F2P player retention. Current rewards feel scarce and punishing, especially for story-focused players, creating anxiety and negative sentiment in the community.
 
-**Proposal.**
-- Regular Trial: 30 Diamonds • 3,000 Gold • +500 Affinity  
-- Milestone Trial (Lv. 10n): 60 Diamonds • 5,000 Gold • +500 Affinity • 1 Empyrean Wish • 1 Random Item  
-- Weekly Milestones: 3/6/9 Trials → +20💎 / +200❤️ / +50💎  
-*Note: respects per-character daily cap + weekday orbit limits.*
+## Proposal (Snapshot)
+- **Regular Trials (most levels):** 30 Diamonds • 3,000 Gold • +500 Affinity  
+- **Milestone Trials (Lv. 10n):** 60 Diamonds • 5,000 Gold • +500 Affinity • 1 Empyrean Wish • 1 Random Item  
+- **Weekly Milestones:** 3/6/9 Trials → +20💎 / +200❤️ / +50💎  
+*(Respects 3 trials/character/day cap + weekday availability)*
+
+## Goals
+- +10% Day 30 retention (F2P cohort)  
+- +20% faster Trial completion rate  
+- Higher story affinity unlock rate  
 
 ## Mockups
+**Before:**  
+![Before Rewards](./current%20rewards.png)  
 
-**Before (Current Rewards):**  
-![Before Rewards](./current%20rewards.png) 
+**After:**  
+![After Rewards](./proposed%20rewards.png)  
 
-**After (Proposed Rewards + Milestones):**  
-![After Rewards](./proposed%20rewards.png) 
-
-**Success Metrics**
-- +10% Day-30 retention (F2P)
-- +20% faster average Trial completion
-- ↑ Story unlock rate
-
+## Full Case Study
+→ [Read detailed write-up](./case-study.md)
