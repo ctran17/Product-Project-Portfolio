@@ -1,12 +1,12 @@
 # Product Case Study: Improving Rewards & Player Retention in *Love and Deepspace*
 
 ## Introduction
-*Love and Deepspace (LaDS)* is a mobile otome (romance) game by Infold Games that combines interactive storylines with gacha mechanics and real-time combat. Players develop romantic relationships with the game characters while progressing through battles and unlocking narrative chapters. The game’s marketing emphasizes its immersive story and character-driven experience, but community feedback has highlighted a gap between the narrative focus and the grind-heavy, resource-scarce gameplay systems.
+*Love and Deepspace (LaDS)* is a mobile otome (romance) game by Infold Games that combines interactive storylines with gacha mechanics and real-time combat. Players develop romantic relationships with the game characters while progressing through battles and unlocking narrative chapters. The game’s marketing emphasizes its immersive story and character-driven experience, but community feedback has highlighted a gap between the narrative focus and the grind-heavy, resource-scarce combat systems.
 
 ---
 
 ## Problem Statement
-F2P and casual players feel punished by scarce rewards and high resource requirements in progression systems like Trials/Directional Orbits. Current mechanics create anxiety and discourage long-term play, especially for users who joined primarily for story immersion rather than grind.
+F2P (Free to Play) and casual players feel punished by scarce rewards and high resource requirements in progression systems with high rewards like Trials/Directional Orbits. Current mechanics create anxiety and discourage long-term play, especially for users who joined primarily for story immersion rather than grind.
 
 This mismatch contributes to player frustration, drop-off, and negative sentiment in community spaces (Reddit, Instagram, YouTube).
 
@@ -38,7 +38,17 @@ This mismatch contributes to player frustration, drop-off, and negative sentimen
 
 ### 3. Affinity-Friendly Events
 - Add periodic F2P-focused events with affinity tokens as rewards.  
-- Lets story-focused players progress without battling at whale-level intensity.  
+- Lets story-focused players progress without battling at whale-level intensity.
+
+### Reward Comparison (Per Clear)
+
+| Trial Type         | Before                                     | After                                                 | Status      |
+|--------------------|--------------------------------------------|-------------------------------------------------------|-------------|
+| Regular (most Lv.) | 20💎 • 2,000🪙 • +300❤️                   | **30💎 • 3,000🪙 • +500❤️**                         | Replaced    |
+| Milestone (10n)    | 40💎 • 4,000🪙 • +300❤️ • 1 Wish • 1 Item | **60💎 • 5,000🪙 • +500❤️ • 1 Wish • 1 Item**       | Replaced    |
+| Weekly Bonuses     | —                                           | **3→+20💎 • 6→+200❤️ • 9→+50💎**                    | New (Add)   |
+
+*Caps/availability unchanged: 3 Trials per **character** per day; weekday rotation; all open Sat/Sun.*
 
 ---
 
