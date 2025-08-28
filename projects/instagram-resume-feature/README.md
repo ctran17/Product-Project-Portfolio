@@ -1,0 +1,13 @@
+# Instagram — Resume & Recently Viewed
+
+**Problem:** Users lose the Reel/post they were viewing when the app refreshes on reopen.  
+**Proposal:** A lightweight **“Continue watching?”** toast + an optional **Recently Viewed** list (last 10 items).
+
+**Goals:** +15% Reel completion; +10% session time; improved sentiment.  
+**Constraints:** Privacy (opt-in history), protect fresh content (limit history scope).
+
+## Mockups
+Coming soon :)
+
+## Full Case Study
+→ [case-study.md](./case-study.md)
