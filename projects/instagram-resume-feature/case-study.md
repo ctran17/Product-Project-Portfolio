@@ -44,6 +44,9 @@ Users commonly exit the app mid-scroll; on reopen, the session resets, making it
 - **Qual:** in-app survey: “It’s easier to continue what I was watching.” (Agree %)
 
 ## Mockups
+### Low-to-Mid-Fidelity Prototype
+[View the clickable lo-fi prototype in Figma →](https://www.figma.com/make/Hj4xMGy5KGF8qUfDswd6qT/Lofi-Instagram-Prototype?node-id=0-1&t=Ui4FY4i08L1SuKKV-1)
+### High Fidelity Prototype
 Coming soon from Figma :)
 
 ## Impact
