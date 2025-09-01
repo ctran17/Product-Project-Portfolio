@@ -45,7 +45,7 @@ Users commonly exit the app mid-scroll; on reopen, the session resets, making it
 
 ## Mockups
 ### Low-to-Mid-Fidelity Prototype
-[View the clickable lo-fi prototype in Figma →](https://www.figma.com/make/Hj4xMGy5KGF8qUfDswd6qT/Lofi-Instagram-Prototype?node-id=0-1&t=Ui4FY4i08L1SuKKV-1)
+[View the clickable lo-fi prototype in Figma](https://www.figma.com/make/Hj4xMGy5KGF8qUfDswd6qT/Lofi-Instagram-Prototype?node-id=0-1&t=Ui4FY4i08L1SuKKV-1)
 
 Note: best experienced with iPhone 16 layout option in Figma
 
