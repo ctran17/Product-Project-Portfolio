@@ -7,7 +7,11 @@
 **Constraints:** Privacy (opt-in history), protect fresh content (limit history scope).
 
 ## Mockups
-Coming soon :)
+### Low-to-Mid-Fidelity Prototype
+[View the clickable lo-fi prototype in Figma](https://www.figma.com/make/Hj4xMGy5KGF8qUfDswd6qT/Lofi-Instagram-Prototype?node-id=0-1&t=Ui4FY4i08L1SuKKV-1)
+
+### High-Fidelity Prototype
+Coming soon!
 
 ## Full Case Study
 → [case-study.md](./case-study.md)
